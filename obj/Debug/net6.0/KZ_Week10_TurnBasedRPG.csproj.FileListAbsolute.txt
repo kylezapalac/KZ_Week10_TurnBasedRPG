@@ -1,0 +1,15 @@
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\bin\Debug\net6.0\KZ_Week10_TurnBasedRPG.exe
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\bin\Debug\net6.0\KZ_Week10_TurnBasedRPG.deps.json
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\bin\Debug\net6.0\KZ_Week10_TurnBasedRPG.runtimeconfig.json
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\bin\Debug\net6.0\KZ_Week10_TurnBasedRPG.dll
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\bin\Debug\net6.0\ref\KZ_Week10_TurnBasedRPG.dll
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\bin\Debug\net6.0\KZ_Week10_TurnBasedRPG.pdb
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\obj\Debug\net6.0\KZ_Week10_TurnBasedRPG.csproj.AssemblyReference.cache
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\obj\Debug\net6.0\KZ_Week10_TurnBasedRPG.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\obj\Debug\net6.0\KZ_Week10_TurnBasedRPG.AssemblyInfoInputs.cache
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\obj\Debug\net6.0\KZ_Week10_TurnBasedRPG.AssemblyInfo.cs
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\obj\Debug\net6.0\KZ_Week10_TurnBasedRPG.csproj.CoreCompileInputs.cache
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\obj\Debug\net6.0\KZ_Week10_TurnBasedRPG.dll
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\obj\Debug\net6.0\ref\KZ_Week10_TurnBasedRPG.dll
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\obj\Debug\net6.0\KZ_Week10_TurnBasedRPG.pdb
+F:\Lone Star Game Design AAS\GAME-1343\KZ_Week10_TurnBasedRPG\obj\Debug\net6.0\KZ_Week10_TurnBasedRPG.genruntimeconfig.cache
